@@ -1,6 +1,6 @@
 # Neuromine
 
-Neuromine is the data team behind Answer ALS and ALS TDI, and this organization holds the parts of its work that anyone may reuse. It publishes the brand skill that AI agents follow to make house-style documents, and the exact pipeline copies that the public Answer ALS methods text points to, so readers can see and rerun how the data were made.
+Neuromine is the data team behind Answer ALS and ALS TDI. This organization holds the parts of that work that anyone may reuse: shared tools for making consistent, on-brand outputs and the methods behind published data, so readers can see and repeat how the data were made.
 
 ## Repositories
 
@@ -9,4 +9,4 @@ Neuromine is the data team behind Answer ALS and ALS TDI, and this organization 
 
 ## Licensing
 
-Each repository carries its own license in its LICENSE file.
+Each repository carries its own license in its LICENSE file; a repository without one is under the MIT License, copyright 2026 Neuromine-Data.
